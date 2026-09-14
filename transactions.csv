@@ -1,0 +1,19 @@
+Date,Type,Category,Amount,Description
+2025-01-01,Income,Salary,30000,Monthly Salary
+2025-01-02,Expense,Food,500,Grocery
+2025-01-05,Expense,Transport,300,Bus Travel
+2025-01-10,Expense,Shopping,1500,Clothes
+2025-01-15,Expense,Bills,1200,Electricity Bill
+2025-01-20,Expense,Entertainment,800,Movie
+2025-02-01,Income,Salary,30000,Monthly Salary
+2025-02-03,Expense,Food,700,Grocery
+2025-02-08,Expense,Transport,400,Travel
+2025-02-15,Expense,Shopping,2000,Shopping
+2025-02-20,Expense,Bills,1000,Electricity Bill
+2025-02-25,Expense,Entertainment,600,Movie
+2025-03-01,Income,Salary,30000,Monthly Salary
+2025-03-04,Expense,Food,650,Grocery
+2025-03-09,Expense,Transport,350,Travel
+2025-03-14,Expense,Shopping,1200,Shopping
+2025-03-18,Expense,Bills,1100,Electricity Bill
+2025-03-25,Expense,Entertainment,900,Movie
